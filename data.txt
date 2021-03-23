@@ -1,0 +1,1 @@
+{"Nama_Wilayah":"DKI Jakarta","Jumlah_Positif":"370582","Jumlah_Dirawat":"3463","Jumlah_Sembuh":"357100","Jumlah_Meninggal":"6160","Nama_Operator":"Reza Reynaldi","NIM_Mahasiswa":"171011450348"}
